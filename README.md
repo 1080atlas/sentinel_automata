@@ -225,5 +225,5 @@ uvicorn main:app --reload --host 0.0.0.0 --port 3000
 
 ---
 
-*© 2025 Your AI-Driven Trading Fund MVP*
+
 
